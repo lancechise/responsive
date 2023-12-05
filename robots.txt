@@ -2,5 +2,8 @@
 
 User-agent: *
 Allow: 
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /junk/
 
 Sitemap: https://www.example.com/sitemap.xml
